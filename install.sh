@@ -29,7 +29,7 @@ cat <<DESKTOP > "$APP_DIR/docx-pdf-viewer.desktop"
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Office Document to PDF Viewer
+Name=Office to PDF Viewer (Docs, Slides, Sheets)
 GenericName=Document Viewer
 Comment=Open Office documents (.docx, .pptx, .xlsx, .odt) automatically as PDF
 Exec=$BIN_DIR/docx-to-pdf-viewer %U

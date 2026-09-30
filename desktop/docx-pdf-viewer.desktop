@@ -1,9 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=Office Document to PDF Viewer
-GenericName=Document Viewer
-Comment=Open Office documents (.docx, .pptx, .xlsx, .odt) automatically as PDF
+Name=Office to PDF Viewer (Docs, Slides, Sheets)
+GenericName=Office Document Viewer
+Comment=Open Docs, Word, Slides, PowerPoint, Sheets, Excel automatically as PDF
 Exec=docx-to-pdf-viewer %U
 Icon=x-office-document
 Terminal=false
